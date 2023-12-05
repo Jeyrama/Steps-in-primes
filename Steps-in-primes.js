@@ -31,3 +31,6 @@ Notes:
   The idea of "step" is close to that of "gap" but it is not exactly the same.
   A "gap" is more restrictive: there must be no primes in between 101-107 is a "step" but not a "gap".
 */
+
+
+// Solution

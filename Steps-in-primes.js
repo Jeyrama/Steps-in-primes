@@ -49,3 +49,5 @@ function step(g, m, n) {
   }
   return null;
 }
+
+// or
